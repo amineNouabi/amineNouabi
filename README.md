@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **amineNouabi/amineNouabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,3 +17,5 @@ Here are some ideas to get you started:
 <div id="header" align="center">
   <img src="https://media.tenor.com/JmCAH_5sYFAAAAAC/tool-10.gif" width="80%"/>
 </div>
+
+### Hi there 👋
