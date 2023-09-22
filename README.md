@@ -1,12 +1,10 @@
 <h2 align="left">Hi 👋! My name is Amine and I'm a Software Developer:</h2>
 
-###
 
 <div align="center">
   <img height="500" src="https://media.tenor.com/JmCAH_5sYFAAAAAC/tool-10.gif"  />
 </div>
 
-###
 
 
 ### :hammer_and_wrench: Languages and Tools :
