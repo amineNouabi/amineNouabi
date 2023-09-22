@@ -43,7 +43,9 @@ Here are some ideas to get you started:
 ---
 
 ### :fire: Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amineNouabi&theme=dark&border_radius=5&mode=weekly)](https://git.io/streak-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amineNouabi&layout=compact&theme=dark)
+<span>
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amineNouabi&theme=dark&border_radius=5&mode=weekly)](https://git.io/streak-stats)
+</span>
+<span>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amineNouabi&layout=compact&theme=dark)
+</span>
