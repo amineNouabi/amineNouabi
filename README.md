@@ -6,7 +6,7 @@
 
 
 
-:hammer_and_wrench: Languages and Tools :
+<h2>:hammer_and_wrench: Languages and Tools :</h2>
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
@@ -85,7 +85,7 @@
 </div>
 
 
-<h3>Social Media:</h3>
+<h2>Social Media:</h2>
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -102,7 +102,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/amineNouabi/amineNouabi/output/github-snake-dark.svg" />
 </picture>
 
-<h3>:fire: Stats :</h3>
+<h2>:fire: Stats :</h2>
 
 <div align="center">
   <img height="500" src="./carrey.gif" style="margin-bottom:20px"/>
