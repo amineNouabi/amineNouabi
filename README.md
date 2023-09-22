@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Amine and I'm a Software Developer from.</h2>
+<h2 align="left">Hi 👋! My name is Amine and I'm a Software Developer:</h2>
 
 ###
 
@@ -8,7 +8,6 @@
 
 ###
 
----
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -89,8 +88,6 @@
 </div>
 
 
----
-
 ### Social Links:
 
 <div align="center">
@@ -109,8 +106,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amineNouabi/amineNouabi/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/amineNouabi/amineNouabi/output/github-snake-dark.svg" />
 </picture>
----
-
 
 ### :fire: Stats :
 ###
