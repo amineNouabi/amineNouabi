@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Amine and I'm a Software Developer:</h2>
+### Hi 👋! My name is Amine and I'm a Software Developer:
 
 
 <div align="center">
@@ -95,8 +95,6 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
-###
-
 <br clear="both">
 
 <picture>
@@ -106,16 +104,13 @@
 </picture>
 
 ### :fire: Stats :
-###
 
 <div align="center">
-  <img height="500" src="./carrey.gif"  />
+  <img height="500" src="./carrey.gif" style="margin-bottom:20px"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amineNouabi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false" height="160" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=amineNouabi&locale=en&mode=weekly&theme=merko&hide_border=false&border_radius=5" height="160" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amineNouabi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=merko&hide_border=false" height="160" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=amineNouabi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false" height="100" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=amineNouabi&locale=en&mode=weekly&theme=merko&hide_border=false&border_radius=5" height="100" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amineNouabi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=merko&hide_border=false" height="100" alt="languages graph"  />
 </div>
-
-###
