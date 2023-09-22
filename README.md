@@ -1,5 +1,4 @@
-Hi 👋! My name is Amine and I'm a Software Developer:
-
+<h1>Hi 👋! My name is Amine and I'm a Software Developer:</h1>
 
 <div align="center">
   <img height="500" src="https://media.tenor.com/JmCAH_5sYFAAAAAC/tool-10.gif"  />
@@ -86,7 +85,7 @@ Hi 👋! My name is Amine and I'm a Software Developer:
 </div>
 
 
-Social Links:
+<h3>Social Media:</h3>
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -103,7 +102,7 @@ Social Links:
   <img alt="github-snake" src="https://raw.githubusercontent.com/amineNouabi/amineNouabi/output/github-snake-dark.svg" />
 </picture>
 
-:fire: Stats :
+<h3>:fire: Stats :</h3>
 
 <div align="center">
   <img height="500" src="./carrey.gif" style="margin-bottom:20px"/>
