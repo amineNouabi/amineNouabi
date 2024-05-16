@@ -1,4 +1,4 @@
-<h1>Hi 👋! My name is Amine and I'm a Software Developer:</h1>
+<h1>Hi 👋! My name is Ahmed Amine an Undergraduate Engineer and a passionate Software Developer:</h1>
 
 <div align="center">
   <img height="500" src="https://media.tenor.com/JmCAH_5sYFAAAAAC/tool-10.gif"  />
