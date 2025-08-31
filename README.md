@@ -1,10 +1,16 @@
-<h1>Hi 👋! My name is Ahmed Amine an Undergraduate Engineer and a passionate Software Developer:</h1>
+<h1>Hi 👋! My name is Ahmed Amine a graduate Engineer and a passionate Software Developer:</h1>
 
 <div align="center">
   <img height="500" src="https://media.tenor.com/JmCAH_5sYFAAAAAC/tool-10.gif"  />
 </div>
 
+<h2>🌐 Portfolio Website:</h2>
 
+<div align="center">
+  <a href="https://nouabi.engineer" target="_blank">
+    <img src="https://img.shields.io/badge/Visit_My_Portfolio-000000?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio Website" />
+  </a>
+</div>
 
 <h2>:hammer_and_wrench: Languages and Tools :</h2>
 
@@ -16,8 +22,6 @@
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="30" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/python/3776AB" height="30" alt="python logo"  />
   <img width="12" />
@@ -72,8 +76,6 @@
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="30" alt="ubuntu logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/vim/019733" height="30" alt="vim logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="30" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/vite/646CFF" height="30" alt="vite logo"  />
   <img width="12" />
