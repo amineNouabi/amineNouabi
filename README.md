@@ -7,7 +7,7 @@
 <h2>🌐 Portfolio Website:</h2>
 
 <div align="center">
-  <a href="https://nouabi.engineer" target="_blank">
+  <a href="https://nouabi.engineer/?utm_source=github&utm_medium=profile&utm_campaign=portfolio&utm_content=github_profile" target="_blank">
     <img src="https://img.shields.io/badge/Visit_My_Portfolio-000000?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio Website" />
   </a>
 </div>
