@@ -86,12 +86,6 @@
   <img src="https://skillicons.dev/icons?i=svg" height="30" alt="svg logo"  />
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amineNouabi/amineNouabi/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amineNouabi/amineNouabi/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/amineNouabi/amineNouabi/output/github-snake-dark.svg" />
-</picture>
-
 <h2>Social Media:</h2>
 
 <div align="center">
